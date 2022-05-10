@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Cool_Dashboard_ReactJS/static/css/main.a9cd112b.css",
+    "main.js": "/Cool_Dashboard_ReactJS/static/js/main.0231ca2c.js",
+    "static/media/img1.png": "/Cool_Dashboard_ReactJS/static/media/img1.a0fca9c51749c1ee3db5.png",
+    "static/media/img2.png": "/Cool_Dashboard_ReactJS/static/media/img2.f5f922c9b93eaf2c4065.png",
+    "static/media/img3.png": "/Cool_Dashboard_ReactJS/static/media/img3.6b1484548ee065fd59b5.png",
+    "index.html": "/Cool_Dashboard_ReactJS/index.html",
+    "main.a9cd112b.css.map": "/Cool_Dashboard_ReactJS/static/css/main.a9cd112b.css.map",
+    "main.0231ca2c.js.map": "/Cool_Dashboard_ReactJS/static/js/main.0231ca2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9cd112b.css",
+    "static/js/main.0231ca2c.js"
+  ]
+}
